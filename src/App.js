@@ -23,6 +23,27 @@ function App() {
       duration: "45 minutes",
       calories: 200,
     },
+    {
+      id: 3,
+      name: "Morning Bike Ride",
+      date: "2023-06-22",
+      duration: "1 hour 30 minutes",
+      calories: 500,
+    },
+    {
+      id: 4,
+      name: "Night Swim",
+      date: "2023-07-22",
+      duration: "45 minutes",
+      calories: 700,
+    },
+    {
+      id: 5,
+      name: "Morning Hike",
+      date: "2023-08-22",
+      duration: "5 hours",
+      calories: 1500,
+    }
   ]);
 
   // Function to add a new workout
